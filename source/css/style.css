@@ -463,7 +463,7 @@ body{
 .slick-track{
     display: flex;
     height: 450px;
-    width: 840px;
+    width: 800px;
     margin: auto;
 }
 .slick-list{
@@ -487,12 +487,12 @@ body{
 .slider__item{
     background: url("/source/img/desktop/main/slider.svg");
     height: 450px;
-    width: 840px;
+    width: 800px;
     margin: auto 0;
 }
 .slick-list{
     height: 450px;
-    width: 840px;
+    width: 800px;
     margin: 0 auto;
 }
 .slider__text{
