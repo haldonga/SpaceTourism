@@ -477,11 +477,11 @@ body{
     height: 8px;
     cursor: pointer;
 }
-.slider .slick-prev .slick-arrow{
-    background: url("/source/img/desktop/main/prev.svg") 0 0 / 100% no-repeat;
+.slick-prev{
+    background: url("/source/img/desktop/main/prev.svg");
 }
-.slider .slick-next .slick-arrow{
-    background: url("/source/img/desktop/main/next.svg") 0 0 / 100% no-repeat;
+.slick-next{
+    background: url("/source/img/desktop/main/next.svg");
 }
 .slider__item{
     background: url("/source/img/desktop/main/slider.svg");
