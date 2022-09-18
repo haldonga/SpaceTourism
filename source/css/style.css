@@ -476,6 +476,7 @@ body{
     width: 100px;
     height: 8px;
     cursor: pointer;
+    border: none;
 }
 .slick-prev{
     background: url("/source/img/desktop/main/prev.svg");
